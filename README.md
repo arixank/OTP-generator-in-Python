@@ -5,6 +5,7 @@ And this is just a skeltal structure for how a possible OTP or generators work i
 
 Things to keep in Mind:
 OTP.py - is the basic logical structure
+|
 OTPgen.py - is the actual generator!
 
 This was done in order to understand the basics and framing a robust logic.
