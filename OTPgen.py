@@ -2,7 +2,7 @@
 import string
 import random
 
-#numbers = "0123456789"
+#numbers = "0123456789" Is same as below
 numbers = string.digits
 
 def OTP_generator():
