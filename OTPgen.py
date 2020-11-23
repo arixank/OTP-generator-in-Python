@@ -1,7 +1,9 @@
 # OTP - One Time Password generator
+import string
 import random
 
-numbers = "0123456789"
+#numbers = "0123456789"
+numbers = string.digits
 
 def OTP_generator():
     print("Generated OTP: ",end ="")
